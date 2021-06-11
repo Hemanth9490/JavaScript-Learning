@@ -45,3 +45,12 @@ var greetings =function (name){
 
 var result = greetings("Somasekhar")
 console.log(result)
+
+
+
+
+//Self Executing anonymous functions and functional programming
+
+(function(){
+    console.log("Hello world")
+})();
